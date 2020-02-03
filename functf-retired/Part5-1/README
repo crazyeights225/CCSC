@@ -1,0 +1,10 @@
+[Part 5] #1 Since you've been working hard..I wanted to hand out the flag to you
+but my dumb friend messed the whole image. Fix the image to get the flag.
+
+Download: flag.png
+There are a lot of ways to mess a file. The most common one is to play with its
+headers.
+NOTE: The flag is not in the tryhackme{}. For submission add tryhackme{} around
+the found flag.
+
+Hint: Look up file headers, and view the hex of the image.
