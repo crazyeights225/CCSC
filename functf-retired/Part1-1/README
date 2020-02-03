@@ -1,0 +1,4 @@
+[Part 1] #1 Do images have strings?
+
+The hint here is strings
+The command: strings - print the sequences of printable characters in files
