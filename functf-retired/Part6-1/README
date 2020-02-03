@@ -1,0 +1,23 @@
+[Part 6] #1 Audio?!
+
+Download flag.wav
+Hint:
+------------------------------------
+HACKER1: FBI is onto me that is why I am sending you a hidden message in an
+audio file.
+HACKER2: What? Audio file...how the hell is that safe.
+H1: It is because audio has nothing to do with it.
+H2: So how can I see it.
+H1: Just check the spectro......
+-----DISCONNECTED--------------------
+This was the conversation intercepted by FBI between two hackers. FBI has
+provided you with the audio file can you help then find the message?
+
+Hint:
+In the hint it says check the spectro
+After much searching I found a tool:
+sonic-visualiser/kali-rolling 4.0-1 amd64
+viewing and analysing the contents of music audio files
+Downloaded it and opened the file
+
+
